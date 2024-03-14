@@ -28,7 +28,7 @@ The correct orders of the events are:
 
 1. These are the instructions about the "_view_item_" event:
 - "push" the code when the user lands on a product page like https://blokes.co/glp-1-medications/ or https://choosejoi.co/product/food-sensitivity/
-- a user can view more products during one single session, therefore more view_item events can be pushed during a throughout it.
+- a user can view more products during one single session, therefore more view_item events can be pushed throughout it.
 
   
 
